@@ -1,0 +1,8 @@
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[context.production.environment]
+  REACT_APP_API_LIVE=https://dev-api.gettonote.com/api/v1
+  REACT_APP_DYNAMIC_ENVIRONMENT_LIVE_ID=bfc13c1b-604c-4fc1-a793-f5fa8e4e9635
