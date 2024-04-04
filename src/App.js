@@ -25,9 +25,8 @@ const App = () => {
 			}
 			const responseData = await response.json();
 			// Redirect to a different domain after backend resolves
-			const newUrl = new URL('https://skoutwatch-e-signing.netlify.app');
+			const newUrl = `https://skoutwatch-e-signing.netlify.app?token=${responseData.token}`;
 			// Append token as a query parameter
-			newUrl.searchParams.append('token', responseData.token);
 			window.location.href = newUrl.toString();
 		} catch (error) {
 			console.error('Error sending params to backend:', error);
