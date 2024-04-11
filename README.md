@@ -17,7 +17,7 @@ Skoutwatch leverages on the following resources:
 # Codebase Links
 
 Skoutwatch has 3 services with separate codebase
-1.  [Skoutwatch Authentication](https://skoutwatch-e-signing.netlify.app/) ------ (You are currently on this repository)
+1.  [Skoutwatch Authentication](https://github.com/Skoutwatch/skoutwatch-e-signing-auth) ------ (You are currently on this repository)
 2.  [Skoutwatch Frontend Application](https://github.com/Skoutwatch/skoutwatch-e-signing)
 3.  [Skoutwatch Backend Application](https://github.com/Skoutwatch/e-signing)
 
