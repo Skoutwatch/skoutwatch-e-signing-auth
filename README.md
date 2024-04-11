@@ -1,4 +1,4 @@
-# skoutwatch-e-signing-auth
+# skoutwatch-e-signing-auth with web3 
 E-signing with skoutwatch authentication model
 
 # BlockChain Resources that makes up skoutwatch
