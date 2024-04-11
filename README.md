@@ -1,6 +1,26 @@
 # skoutwatch-e-signing-auth
 E-signing with skoutwatch authentication model
 
+# BlockChain Resources that makes up skoutwatch
+
+Skoutwatch was built in React/Vuejs on the frontend PHP on the backend
+
+Skoutwatch leverages on the following resources:
+
+[Dynamic](https://app.dynamic.xyz/) for creation and authentication of blockchain wallets
+
+[Underdog Protocol](https://app.underdogprotocol.xyz/) for minting of NFTs
+
+[Helius Xray](https://xray.helius.xyz/)) for scanning minted NFTs
+
+
+# Codebase Links
+
+Skoutwatch has 3 services with separate codebase
+1.  [Skoutwatch Authentication](https://skoutwatch-e-signing.netlify.app/) ------ (You are currently on this repository)
+2.  [Skoutwatch Frontend Application](https://github.com/Skoutwatch/skoutwatch-e-signing)
+3.  [Skoutwatch Backend Application](https://github.com/Skoutwatch/e-signing)
+
 ## Link
 * [Go to skoutwatch-auth](https://skoutwatch-e-signing-auth.netlify.app/)
 
