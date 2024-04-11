@@ -1,9 +1,15 @@
 # skoutwatch-e-signing-auth with web3 
 E-signing with skoutwatch authentication model
 
+
+
+
 # BlockChain Resources that makes up skoutwatch
 
-Skoutwatch was built in React/Vuejs on the frontend PHP on the backend
+Skoutwatch was built in: 
+
+1. React/Vuejs on the frontend
+2. PHP on the backend
 
 Skoutwatch leverages on the following resources:
 
